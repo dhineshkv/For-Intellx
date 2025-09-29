@@ -1,5 +1,11 @@
-# IntellX ' 24
-**| Sethu institute of Technology |**
+# 🌐 IntellX Symposium Website
 
+A website developed for our college symposium **IntellX**, showcasing event details, schedule, and team information.
 
-| Department of Artificial Intelligence and data science |
+## 🛠️ Tech Stack
+HTML, CSS, JavaScript
+
+## 🚀 Usage
+1. Clone the repo:  
+```bash
+git clone https://github.com/username/intellx-symposium-website.git
